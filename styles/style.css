@@ -1,0 +1,17 @@
+.header {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	min-width: 80%;
+	margin: 0 auto;
+	background: #a4a4a4;
+}
+
+.header__logo {
+	height: 38px;
+	width: 38px;
+	background-image: url(../images/reawhite.png);
+	background-size: 50px;
+	background-repeat: no-repeat;
+
+}  
